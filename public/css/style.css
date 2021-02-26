@@ -1,0 +1,33 @@
+body {
+	background-color: #2e2e2e !important;
+}
+
+.alert {
+	padding: 0.4rem;
+}
+
+h2{
+	padding: 1rem;
+	color: blue;
+	text-align: center;
+}
+
+h3 {
+	padding: 1rem;
+	color: white;
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+.container {
+	padding: 1rem;
+	background: #9db3e3;
+	border-radius: 0.5rem;
+}
+
+a {
+	margin: 1rem;
+}
